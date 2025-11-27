@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: container1
-          image: nikhilmahajan293/github-action-demo:1.0
+          image: nikhilmahajan293/github-action-demo:19733193989
           ports:
             - containerPort: 80
